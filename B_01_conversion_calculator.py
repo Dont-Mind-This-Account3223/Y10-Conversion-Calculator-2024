@@ -135,10 +135,10 @@ time = {
 }
 
 mass = {
-    "mg": 1000,
-    "g": 1,
-    "kg": 1000,
-    "t": 1
+    "mg": 1000000,
+    "g": 1000,
+    "kg": 1,
+    "t": 0.001
 }
 
 # combines all the dictionaries so that we can look up conversion factors in one place
